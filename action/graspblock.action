@@ -1,0 +1,8 @@
+#goal definition
+int32 goalState
+---
+#result definition
+int32 successOrNot
+---
+#feedback
+int32 sequenced
